@@ -1,0 +1,34 @@
+# Core scientific stack
+numpy
+scipy
+pandas
+openpyxl
+
+# Plotting & visualization
+matplotlib
+seaborn
+plotly
+
+# Jupyter support
+jupyterlab
+ipykernel
+
+# Machine learning & stats
+scikit-learn
+statsmodels
+
+# Excel & data I/O
+xlrd
+xlsxwriter
+openpyxl
+
+# Time series utilities
+pytz
+dateparser
+
+# Optional: tqdm for progress bars
+tqdm
+
+# Finance and trading libraries
+yfinance
+python-binance
