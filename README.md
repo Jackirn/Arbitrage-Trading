@@ -91,3 +91,12 @@ All results and methods were thoroughly reviewed by the academic supervisors.
 ## 📄 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🔒 Note on Repository Privacy
+
+Please note that the **original repository**, which contains the **complete commit history and development process**, is private.  
+This is due to the presence of **academic material and internal coursework content** that cannot be publicly shared.
+
+This public version has been curated for **portfolio and educational purposes**, and faithfully reflects the structure, results, and methodology of the original work.
